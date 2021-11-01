@@ -1,4 +1,4 @@
-import  origine from './origine.json'
+import  origine from './origine.mjs'
 
 function load()
 {
