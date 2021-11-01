@@ -1,6 +1,6 @@
 import  origine from './origine.mjs'
 
-function load()
+export function load()
 {
 	console.log(origine)
 }
