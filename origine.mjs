@@ -3,5 +3,3 @@ const origine = {
 "Mwangui":[{"res":["poison maladie",5]}]
 	
 }
-
-export origine
